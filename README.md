@@ -27,3 +27,7 @@ How to Use:
     
         "Press <Ctrl+C> to exit" ---> press Ctrl+C
         Terminate batch job (Y/N)? ---> press Y
+        
+Sample Report:
+
+![image](https://user-images.githubusercontent.com/84385581/118688333-96e6b400-b823-11eb-82db-2513431c9c78.png)
