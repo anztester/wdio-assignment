@@ -1,3 +1,8 @@
+Pre-requisites:
+
+    1. NodeJS version v14.16.0 installed
+    2. Chrome browser version "90.0.4430.212" installed
+
 Features:
 
     1. Design Pattern - Page Object Model
@@ -9,7 +14,7 @@ Features:
 How to Use:
 
     1. Download the code from git repository
-    2. Open command prompt (same directory where package.json exists) and Run npm install 
+    2. Open command prompt (same directory where package.json exists) and run command "npm install" 
             this may take a while depending on intenet connection as it requires to download chrome drivers.
     3. Run command "npm run test"
         wait till execution completes, once execution completes allure report automatically opens up
@@ -17,4 +22,3 @@ How to Use:
     
         "Press <Ctrl+C> to exit" ---> press Ctrl+C
         Terminate batch job (Y/N)? ---> press Y
-
